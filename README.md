@@ -7,6 +7,10 @@ in Tableau.
 ## 🔗 Live Interactive Dashboard
 [View on Tableau Public](https://public.tableau.com/app/profile/kaung.khant.han/vizzes)
 
+## 📊 Preview
+![Map Preview](map1.png)
+![Map Preview](map2.png)
+
 ## 🛠 Tools & Techniques Used
 - **Tableau Desktop / Tableau Public** for map creation and publishing
 - **Custom state grouping**: manually grouped all 50 states into 4 
